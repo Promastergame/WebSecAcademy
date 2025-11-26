@@ -1,0 +1,40 @@
+Copyright (c) 2025 Promaster Development
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, subject to the following conditions:
+
+1. Attribution.
+   Any use, distribution, modification or publication of the Software must
+   include a clearly visible notice:
+   “Developed by Promaster Development”.
+   It is prohibited to remove or replace the original authorship without
+   explicit permission from the author.
+
+2. Safe Use Only.
+   The Software may not be used to create malware, viruses, harmful scripts,
+   exploits, offensive security tools, or to train users in performing
+   real-world harmful attacks.
+
+3. Allowed Educational Use.
+   The Software may be used for educational purposes related to cybersecurity,
+   including:
+   – teaching SQLi, XSS, CSRF prevention;
+   – demonstrating vulnerabilities in safe or simulated environments;
+   – using pseudo-malicious logic that cannot cause real damage.
+
+4. Restricted Offensive Training.
+   Teaching real offensive techniques, malware development, or exploitation
+   of vulnerabilities outside a controlled safe environment is prohibited.
+   Such use requires explicit permission from the author.
+
+5. Safety Representation.
+   The Software must be presented as safe, educational and non-malicious.
+   It is prohibited to label it as “unofficial OWASP” or otherwise misrepresent
+   its purpose.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY ARISING FROM OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
